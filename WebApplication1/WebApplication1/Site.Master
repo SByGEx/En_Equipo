@@ -81,6 +81,7 @@
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
             </footer>
         </div>
+        <asp:Button ID="Button1" runat="server" Text="Ezequiel Actualizó aquí" />
     </form>
 </body>
 </html>
